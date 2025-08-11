@@ -61,7 +61,7 @@ nav ul li a {
 }
 
 .gallery-item img {
-    width: 40%;
+    width: 100%;
     height: auto;
     border-radius: 8px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
